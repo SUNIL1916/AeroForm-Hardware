@@ -1,0 +1,10 @@
+WARNING: KICAD_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [C:\Users\HP\Downloads\Ar_pcb\pcb\<frozen importlib._bootstrap_external>:940=>C:\Users\HP\Downloads\Ar_pcb\pcb\<frozen importlib._bootstrap>:241]
+WARNING: KICAD6_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [C:\Users\HP\Downloads\Ar_pcb\pcb\<frozen importlib._bootstrap_external>:940=>C:\Users\HP\Downloads\Ar_pcb\pcb\<frozen importlib._bootstrap>:241]
+WARNING: KICAD7_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [C:\Users\HP\Downloads\Ar_pcb\pcb\<frozen importlib._bootstrap_external>:940=>C:\Users\HP\Downloads\Ar_pcb\pcb\<frozen importlib._bootstrap>:241]
+WARNING: KICAD8_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [C:\Users\HP\Downloads\Ar_pcb\pcb\<frozen importlib._bootstrap_external>:940=>C:\Users\HP\Downloads\Ar_pcb\pcb\<frozen importlib._bootstrap>:241]
+WARNING: KICAD9_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [C:\Users\HP\Downloads\Ar_pcb\pcb\<frozen importlib._bootstrap_external>:940=>C:\Users\HP\Downloads\Ar_pcb\pcb\<frozen importlib._bootstrap>:241]
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+ERROR: Unable to find part ESP32-S3-WROOM-1 in library MCU_Espressif. @ [C:\Users\HP\Downloads\Ar_pcb\pcb\<string>:1=>C:\Users\HP\Downloads\Ar_pcb\pcb\<string>:25]
